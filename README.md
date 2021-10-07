@@ -6,6 +6,9 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 
 ## Results:
 
+** Days of the Week/Subscriber: Viz Type - Heatmap
+![Days of the Week/Subscriber](https://github.com/wallaceportia/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)
+
 There are at least seven visualizations for the NYC Citibike analysis (7 pt)
 There is a description of the results for each visualization (7 pt)
 Summary:
