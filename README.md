@@ -68,7 +68,7 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 * The typical male rider is between the ages of 30 to 32 years old with the top year of birth 1990 peaking at 71,334 riders.
 
 * The typical female ride is between the ages of 31 to 33 years old with the top year of birth 1989 peaking at 31,801 riders.
-* There is an outlier of persons born in 1969 (52 years); this data may possibily mis-labelled data or this group of people might belong to a special riding club.
+* There is an outlier of persons born in 1969 (52 years); this data may possibily be mis-labelled data (belonging to males) or this group of people might belong to a special summer riding club.
 
 ## Summary:
 
