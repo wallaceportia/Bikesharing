@@ -40,7 +40,7 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 
 **Most Popular Pedal Pushing Days/Time: Viz Type: _Heat Map_**
 
-![Most Popular Pedal Pushing Days/Time]()
+![Most Popular Pedal Pushing Days/Time](https://github.com/wallaceportia/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20Per%20Hour.PNG)
 
 **Pedal in the Heart of the City: Viz Type - _Map_**
 ![Pedal in the Heart of the City]()
