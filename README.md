@@ -36,7 +36,7 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 
 **Length of rides for Pedal Pushers by Gender: Viz Type - _Multi-Line Chart_**
 
-![Length of rides for Pedal Pushers by Gender]()
+![Length of rides for Pedal Pushers by Gender](https://github.com/wallaceportia/Bikesharing/blob/main/Resources/Checkout%20Times%20by%20Gender.PNG)
 
 **Most Popular Pedal Pushing Days/Time: Viz Type: _Heat Map_**
 
