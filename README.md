@@ -43,7 +43,7 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 ![Most Popular Pedal Pushing Days/Time](https://github.com/wallaceportia/Bikesharing/blob/main/Resources/Trips%20by%20Weekday%20Per%20Hour.PNG)
 
 **Pedal in the Heart of the City: Viz Type - _Map_**
-![Pedal in the Heart of the City]()
+![Pedal in the Heart of the City](https://github.com/wallaceportia/Bikesharing/blob/main/Resources/Start%20Station%2C%20Trip%20Duration(Week%20Day).PNG)
 
 **Trips by Birth Year: Viz Type - _Multi_Line Chart_**
 
