@@ -14,7 +14,7 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 
 * The main stream of users(riders) are subscribers 
 
-* Secondly weekdays are more popular with **subscribers** with the lowest count is _**3,528**_ occurs on Sunday, and the highest count of _**259,316**_ occurring on a Thursday 
+* Secondly weekdays are more popular with **subscribers** with the lowest count is _**3,528**_ occurs on Sundays, and the highest count of _**259,316**_ occurring on Thursdays 
 
 * Thirdly for **customers** ridership is more popular on weekends for both male and females with Saturday being the most popular day, the highest count being _**55,375**_ 
 
@@ -26,9 +26,9 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 
 * Males are the main users of Citi Bike
 
-* Ridership is highest during the week with the Thursday being the most popular day
+* Ridership is highest during the week with Thursday being the most popular day
 
-* The most popular times of the day for riders seems to rush hours (getting to work period) mornings 8am is the most popular time on a Thursday with 25,694 male riders. Thrusday evenings see the highest ridership at 5pm and 6pm the highest count being Thursday evenings with _**30,749**_ at 6PM
+* The most popular times of the day for riders seem to be during rush hours (getting to work period) mornings 8am is the most popular time on a Thursday with _**25,694**_ male riders. Thursday evenings see the highest ridership at **5pm and 6pm** the highest count being Thursday evenings with _**30,749**_ at **6pm**
 
 **Average Length of rides for Pedal Pushers: Viz Type - _Line Chart_** 
 
