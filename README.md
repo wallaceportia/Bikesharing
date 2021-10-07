@@ -50,7 +50,7 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 
 * Firstly we see that overall the most poupular bike usage times occur during the week between **8am and 9am** and in the evening between **5pm to 6pm** with **highest** count on Thursdays at _**44,905**_ at **6pm**.
 
-* In addtion to the weekends the most off peak hours of use is between 12am and 5am with the _**lowest**_ at **3am** a _**360**_ count on Tuesday mornings.
+* In addition to the weekends the highest **off peak hours** are between **12am and 5am** with the _**lowest**_ at **3am** a _**360**_ count on Tuesday mornings.
 
 **Pedal in the Heart of the City: Viz Type - _Map_**
 
