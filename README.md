@@ -14,9 +14,9 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 
 * The main stream of users(riders) are subscribers 
 
-* Secondly weekdays are more popular with subscribers with the lowest count is _**3,528**_ occurs on Sunday, and the highest count of _**259,316**_ occurring on a Thursday 
+* Secondly weekdays are more popular with **subscribers** with the lowest count is _**3,528**_ occurs on Sunday, and the highest count of _**259,316**_ occurring on a Thursday 
 
-* Thirdly for the customer ridership is more popular on weekends for all user types with Saturday being the most popular day, the highest count being _**55,375**_ 
+* Thirdly for the **customers** ridership is more popular on weekends for all both male and females with Saturday being the most popular day, the highest count being _**55,375**_ 
 
 **Mainly Men are Pushing Pedals on Weekdays: Viz Type - _Heat- Map_**
 
