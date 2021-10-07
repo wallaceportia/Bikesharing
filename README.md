@@ -76,4 +76,6 @@ We can summize that most of Citi Bike's customers are male subscribers.  These s
 
 In terms of the recommendation for bikesharing in **Des Moines** there might be two considerations that are of importance:
 
-* 
+* Much of Citi Bikes revenue come from subscribers and these are males who most likely work in the borough of Manhattan.  It is important to note that the borough of Manhattan has an estimate4d population of 1.63 million people and a population density of 70,826.  It therefore made business sense when Citi Bike expanded that many bike stations were placed in Manhattan close to metro-system(it even more wise considering how unreliable the metro system is in the city). The largest metropoliton in Iowa is Des Moines with a metro population of 214, 133 and a population density of 2,390. Referring to the map "Pedal in the Heart of the City", we can observe that there is hight traffic for bikesharing near large densely populated boroughs, therefore on both the in both the introductory phase or expansion phase of bikesharing in a relatively medium to small poulated area like Des Moines, it would be wise to start slow and not make large rash investments.  
+
+* Secondly it can be observed that age has a strong influence on bikesharing (Refer to chart "Trips by Birth Year". Therefore it would be wise as this model is being introduced to conduct studies on age dispersion in the population, this might be a great indicator as to good locations for bike hubs. 
