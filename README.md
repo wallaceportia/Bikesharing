@@ -32,7 +32,7 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 
 **Average Length of rides for Pedal Pushers: Viz Type - _Line Chart_** 
 
-![Average Length of Rides for Pedal Pushers]()
+![Average Length of Rides for Pedal Pushers](https://github.com/wallaceportia/Bikesharing/blob/main/Resources/Checkout%20Times%20for%20Users.PNG)
 
 **Length of rides for Pedal Pushers by Gender: Viz Type - _Multi-Line Chart_**
 
