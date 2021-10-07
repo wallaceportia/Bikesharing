@@ -77,7 +77,7 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 
 ## View Summary Story: Pedal Pushing with Citi Bike
 
-![Pedal Pushing with Citi Bike](https://public.tableau.com/app/profile/portia.wallace/viz/TableauChallenge_16328878423800/PedalPushingwithCitiBike?publish=yes)
+[Pedal Pushing with Citi Bike](https://public.tableau.com/app/profile/portia.wallace/viz/TableauChallenge_16328878423800/PedalPushingwithCitiBike?publish=yes)
 
 ## Summary:
 
