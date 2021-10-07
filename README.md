@@ -2,6 +2,11 @@
 
 ## Overview of the statistical analysis:
 
+###### Tools used for this project 
+
+* Tableau Public
+* Jupyter Notebook
+
 The purpose of this analysis is to understand the Citi-Bike, “bike sharing” business model. The purpose of doing this is that the model can be used by our two young entrepreneurs; who will like to start a bike sharing venture in Des Moines. The data from Citi Bike will be viewed by stakeholders for the new venture in Des Moines to analyze the viability of the business model as well as understand how it functions. 
 
 ## Results:
@@ -70,12 +75,16 @@ The purpose of this analysis is to understand the Citi-Bike, “bike sharing” 
 * The typical female ride is between the ages of 31 to 33 years old with the top year of birth 1989 peaking at 31,801 riders.
 * There is an outlier of persons born in 1969 (52 years); this data may possibily be mis-labelled data (belonging to males) or this group of people might belong to a special summer riding club.
 
+## View Summary Story: Pedal Pushing with Citi Bike
+
+![Pedal Pushing with Citi Bike](https://public.tableau.com/app/profile/portia.wallace/viz/TableauChallenge_16328878423800/PedalPushingwithCitiBike?publish=yes)
+
 ## Summary:
 
-We can summize that most of Citi Bike's customers are male subscribers.  These subscribers tend to use bikeshareing mainly during the week at peek travel times in the morning before work and in the evening after work.  The highest average usage time is 5 minutes, which may suggest that the bikes are being used for more of a functional rather than leisurely use.  Bikesharing is most popular with age groups 30 to 33 year old (refer to chart "Trips by Birth Year") Bikeshareing is more popular with customers on weekends, these are the people who are more than likely using the bike for leisure purposes.  However both among subscribers and customers bikesharing is very popular in populous neighborhoods.
+We can summize that most of Citi Bike's customers are male subscribers.  These subscribers tend to use bikeshareing mainly during the week at peek travel times in the morning before work and in the evening after work.  The highest average usage time is 5 minutes, which may suggest that the bikes are being used for more of a functional rather than leisurely use.  Bikesharing is most popular with age groups 30 to 33 year old (refer to chart "Trips by Birth Year") Bikeshareing is more popular with **customers** as oposed to **subscribers** on weekends, Citi Bike **customers** are more than likely using the bike for leisure purposes.  However among both subscribers and customers bikesharing is very popular in populous neighborhoods.
 
 In terms of the recommendation for bikesharing in **Des Moines** there might be two considerations that are of importance:
 
-* Much of Citi Bikes revenue come from subscribers and these are males who most likely work in the borough of Manhattan.  It is important to note that the borough of Manhattan has an estimate4d population of 1.63 million people and a population density of 70,826.  It therefore made business sense when Citi Bike expanded that many bike stations were placed in Manhattan close to metro-system(it even more wise considering how unreliable the metro system is in the city). The largest metropoliton in Iowa is Des Moines with a metro population of 214, 133 and a population density of 2,390. Referring to the map "Pedal in the Heart of the City", we can observe that there is hight traffic for bikesharing near large densely populated boroughs, therefore on both the in both the introductory phase or expansion phase of bikesharing in a relatively medium to small poulated area like Des Moines, it would be wise to start slow and not make large rash investments.  
+* Much of Citi Bikes' revenue come from subscribers and these are males who most likely work in the borough of Manhattan.  It is important to note that the borough of Manhattan has an estimated population of 1.63 million people and a population density of 70,826.  It therefore made sense financially when Citi Bike expanded that many bike stations were placed in Manhattan close to the metro-system(it even more wise considering how unreliable the metro system is in the city). The largest metropoliton in Iowa is Des Moines with a metro population of 214,133 and a population density of 2,390. Referring to the map **"Pedal in the Heart of the City"**, we can observe that there is high traffic for bikesharing near large densely populated boroughs, therefore in a relatively medium to small poulated area like Des Moines, it would be wise to start slow and not make large rash investments. Research shows that NYC is one of the most densely poupulated cities, whereas Des Moines ranks at number 83.  
 
-* Secondly it can be observed that age has a strong influence on bikesharing (Refer to chart "Trips by Birth Year". Therefore it would be wise as this model is being introduced to conduct studies on age dispersion in the population, this might be a great indicator as to good locations for bike hubs. 
+* Secondly it can be observed that age has a strong influence on bikesharing (Refer to chart **"Trips by Birth Year"**). Therefore it would be wise as this venture is being introduced to conduct studies on age dispersion in the population, this might be a great indicator as to good locations for bike hubs. 
